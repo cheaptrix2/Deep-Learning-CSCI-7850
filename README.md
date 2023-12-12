@@ -1,9 +1,11 @@
 # Deep Learning CSCI 7850
 
 ## PyTorch
+
 ### Dataset
 The source of the dataset is below: <br>
 ```https://www.kaggle.com/datasets/devavratatripathy/ecg-dataset```
+
 #### Downloading the dataset
 1. Open a web browser.
 2. Input the URL below into the URL bar in the web browser<br>
@@ -14,13 +16,21 @@ The source of the dataset is below: <br>
 The model weights and logs can be located at the below Google Cloud Bucket link:<br>
 ```https://storage.cloud.google.com/deep-learning-csci-7850/epoch%3D99-step%3D11000.ckpt```
 
-### Running the model
+#### Downloading the Weights
+1. Open a web browser.
+2. Input the URL below into the URL bar in the web browser<br>
+* ```https://storage.cloud.google.com/deep-learning-csci-7850/epoch%3D99-step%3D11000.ckpt```
+3. This will download the dataset to your local machine's folder designated for downloads.
+
+### Running the Model
+
 #### Required Software
 1. Ensure you have the following downloaded and installed in the environment you will be running the program:<br>
 * python3
 * JuypterNotebook
 2. Navigate to the directory that you want to run the model in.
-3. Move the dataset file into this directory.
+3. Move the dataset file, ```ecg.csv```, into this directory.
+4. Move the model weights, ```epoch=99-step=11000.ckpt```, into this directory.
 4. Download the JuypterNotebook named ```run.ipynb```.
 5. Open notebook and run all cells.
 6. View results.
@@ -38,7 +48,7 @@ It is suggested to use ```run.ipynb``` or ```run.py``` to view results.
 
 # PySpark
 
-## Starting and running application
+## Starting and Running Application
 
 ### Installing Required Software
 * Install PySpark
@@ -50,7 +60,7 @@ It is suggested to use ```run.ipynb``` or ```run.py``` to view results.
 * Download ```Project_Serial.ipynb```
   * Run all cells and view results.
 
-### Running the Models on command line
+### Running the Models on Command Line
 * Download ```Project_Serial.py```
 * Run on command line with ```$python3 ./Project_Serial.py```
 * View results
