@@ -13,3 +13,7 @@ The model weights and logs can be located at the below Google Cloud Bucket link:
 1. Ensure you have the following downloaded and installed in the environment you will be running the program:<br>
   * python3
   * JuypterNotebook
+2. Navigate to the directory that you want to run the model in.
+3. Download the JuypterNotebook named ```run.ipynb```.
+4. Open notebook and run all cells.
+5. View results.
