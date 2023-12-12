@@ -10,7 +10,7 @@ The model weights and logs can be found at the below Google Cloud Bucket link:<b
 
 ## Running the model
 ### Required Software
-Ensure you have the following downloaded and installed in the environment you will be running the program:<br>
+1. Ensure you have the following downloaded and installed in the environment you will be running the program:<br>
 * python3
 * JuypterNotebook
 
