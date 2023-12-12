@@ -6,7 +6,7 @@ The dataset can be located at the below Google Cloud Bucket link:<br>
 
 ## Model Weights
 The model weights and logs can be located at the below Google Cloud Bucket link:<br>
-[INSERT URL HERE]
+```https://storage.cloud.google.com/deep-learning-csci-7850/epoch%3D99-step%3D11000.ckpt```
 
 ## Running the model
 ### Required Software
