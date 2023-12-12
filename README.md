@@ -1,4 +1,4 @@
-# Deep-Learning-CSCI-7850-001
+# Deep Learning CSCI 7850
 
 ## Dataset
 The dataset can be located at the below Google Cloud Bucket link:<br>
