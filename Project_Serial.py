@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Parallel Processing Concepts Group Project
-# ## By Taylor Hartman, Kendra Givens, and Scott Hartsell
-# ## CSCI 4330/6330 w/ Dr. Khem Poudel
-
 # Date/time module
 from datetime import datetime
 
@@ -17,9 +13,6 @@ metrics_list = []
 # file = open('Parallel_Processing_Conecpts_Serial_Results.csv', 'a')
 
 # ## Apache Spark Instantiation
-
-# In[3]:
-
 
 # Import to find Spark on PC
 import findspark
