@@ -35,3 +35,23 @@ Alternately, download run.py and run the file from a terminal on the command lin
 ### Source Files
 ```Term_Project.ipynb``` and ```Term_Project.py``` are source files that were run for this experiment.<br>
 It is suggested to use ```run.ipynb``` or ```run.py``` to view results.
+
+# PySpark
+
+## Starting and running application
+
+### Installing Required Software
+* Install PySpark
+  * ```$pip install pyspark```
+* Install FindSpark:
+  * ```$pip install findspark```
+
+### Running the Models JupyterNotebook
+* Download ```Project_Serial.ipynb```
+  * Run all cells and view results.
+
+### Running the Models on command line
+* Download ```Project_Serial.py```
+* Run on command line with ```$python3 ./Project_Serial.py```
+* View results
+  * It is suggested to redirect the file's output to a new file for readability.
